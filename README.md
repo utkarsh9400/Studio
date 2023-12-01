@@ -1,2 +1,3 @@
 # Studio
-Git demo
+This is Git demo
+Utkarsh Rawat
