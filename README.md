@@ -1,4 +1,4 @@
 # Studio
 This is Git demo
 <br>
-Utkarsh Rawat
+Utkarsh Rawat (Analyst)
